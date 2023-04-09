@@ -20,4 +20,13 @@ github detective live link => https://cheerful-lokum-94af5f.netlify.app
   
 weather api app  live link => https://jazzy-gumdrop-e49b52.netlify.app
 
-password generator = https://storied-douhua-08a6c1.netlify.app/
+
+# Password Generator App
+  This app generates a random password based on the parameter given.
+  <br>
+  features of the app.
+  1. Fisher Yates Method is used to shuffle the password once generated to ensure strength of the password.
+  2. navigator.clipboard.writeText is used to copy password to the clipboard of the browser.
+  3. clipboard api not work when app is hosted on unsecure browser. so another function is written for unsecuredCopyToClipboard.
+  
+password generator live link => https://storied-douhua-08a6c1.netlify.app/
