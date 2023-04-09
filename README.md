@@ -7,6 +7,7 @@
   1. Using GitHub API to fetch and display a GitHub user profile.
   2. No frame work is used.
   3. user friendly ui
+  
 github detective live link => https://cheerful-lokum-94af5f.netlify.app
 
 
